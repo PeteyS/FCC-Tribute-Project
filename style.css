@@ -1,0 +1,47 @@
+#body{
+    background-color: white;
+}
+#main{
+    background-color: hsl(0,0%,92%);
+    width: 98vw;
+    height: 100vh;
+    margin-top:11vh;
+    margin-bottom: 3vh;
+    margin-left: .5vw;
+}
+#header{
+    background-color: hsl(0,0%,20%);
+    width: 100vw;
+    height: 8vh;
+    padding-left: 0.1vw;
+    position: fixed;
+}
+html,body{
+    width:100vw;
+    height:100vh;
+    margin:0px;
+    padding: 0px;
+    overflow-x: visible;
+}
+#div-in{
+    background-color:white;
+    height: 200px;
+    width: 97.5%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:2vh;
+}
+
+#main-title{
+    padding-top: 5vh;
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 0px;
+    font-family: 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+#under-title{
+    text-align: center;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    font-family: 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
